@@ -33,7 +33,6 @@ p {
 }
 
 .container {
-  border: 1px solid blue;
   min-height: 100%;
   padding: 10px 20px;
 }
@@ -65,7 +64,6 @@ p {
   max-height: 100vh;
   display: flex;
   gap: 20px;
-  border: 1px solid red;
   overflow-y: hidden;
 }
 .mail-list {
